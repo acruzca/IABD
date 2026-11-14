@@ -21,5 +21,4 @@ python HolaMundo.py
 
 ## Autor
 
-Antonio Cruz Cánovas
-
+Antonio Cruz Cánovas 14/11/2026
